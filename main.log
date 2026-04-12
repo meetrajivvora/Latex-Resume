@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1768,22 +1768,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--187
  []
 
 
-Overfull \hbox (3.81947pt too wide) in paragraph at lines 229--234
+Overfull \hbox (3.81947pt too wide) in paragraph at lines 229--236
 [][]  []  []  [] 
  []
 
 
-Overfull \hbox (3.79648pt too wide) in paragraph at lines 241--249
+Overfull \hbox (3.79648pt too wide) in paragraph at lines 239--247
 []\T1/lato-TLF/b/n/10 Backend/Frontend: []  [] 
  []
 
 
-Overfull \hbox (11.1245pt too wide) in paragraph at lines 241--249
+Overfull \hbox (11.1245pt too wide) in paragraph at lines 239--247
 []  []  []  [] 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 272.
+nput line 270.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e1.fd) [1
@@ -1820,7 +1820,7 @@ Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (2 pages, 149143 bytes).
+Output written on main.pdf (2 pages, 149145 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
