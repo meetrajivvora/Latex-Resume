@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  21 MAR 2026 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1680,92 +1680,117 @@ No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 95.
 Package biblatex Info: Reference segment=0 on input line 95.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 136.
+(Font)              scaled to size 24.88pt on input line 118.
 LaTeX Font Info:    Trying to load font information for T1+RobotoSlab-TLF on in
-put line 136.
+put line 118.
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/roboto/T1RobotoSlab-TLF.fd
 File: T1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoS
 lab-TLF.
 )
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 136.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 118.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 136.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 118.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 136.
+(Font)              scaled to size 12.0pt on input line 118.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 136.
+(Font)              scaled to size 12.0pt on input line 118.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 136.
+ine 118.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 136.
+(Font)              scaled to size 12.0pt on input line 118.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 136.
+(Font)              scaled to size 8.0pt on input line 118.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 136.
+nput line 118.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e0.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 136.
+nput line 118.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 136.
+ input line 118.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomebra
 nds0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 136.
+n input line 118.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 136.
+(Font)              <7> on input line 118.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 136.
+(Font)              <5> on input line 118.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 146.
+(Font)              scaled to size 17.28pt on input line 129.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 146.
+(Font)              `T1/RobotoSlab-TLF/regular/n' on input line 129.
 LaTeX Font Info:    Font shape `T1/RobotoSlab-TLF/b/n' aliased to
-(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 146.
+(Font)              `T1/RobotoSlab-TLF/bold/n' on input line 129.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 148.
+(Font)              scaled to size 10.0pt on input line 131.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 148.
+(Font)              scaled to size 9.0pt on input line 131.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 150.
+(Font)              scaled to size 9.0pt on input line 133.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 151.
+(Font)              scaled to size 10.0pt on input line 134.
 
-Overfull \hbox (3.81947pt too wide) in paragraph at lines 263--270
+Overfull \hbox (3.91875pt too wide) in paragraph at lines 154--155
+[]\T1/lato-TLF/m/n/10 Stack: []  []  []  []  [] 
+ []
+
+
+Overfull \hbox (14.33873pt too wide) in paragraph at lines 164--165
+[]\T1/lato-TLF/m/n/10 Stack: []  []  []  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+ 
+ []
+
+
+Overfull \hbox (3.81947pt too wide) in paragraph at lines 205--212
 [][]  []  []  [] 
  []
 
 
-Overfull \hbox (25.82143pt too wide) in paragraph at lines 275--283
+Overfull \hbox (25.82143pt too wide) in paragraph at lines 217--225
 []\T1/lato-TLF/b/n/10 Backend: []  []  [] 
  []
 
 
-Overfull \hbox (145.95972pt too wide) in paragraph at lines 275--283
+Overfull \hbox (145.95972pt too wide) in paragraph at lines 217--225
 []  []  []  [] [] [][]  
  []
 
 
-Overfull \hbox (86.25182pt too wide) in paragraph at lines 284--287
+Overfull \hbox (86.25182pt too wide) in paragraph at lines 226--229
 []\T1/lato-TLF/b/n/10 Frontend: []  [] [] [][]  
  []
 
+
+Overfull \hbox (14.9445pt too wide) in paragraph at lines 230--236
+[]\T1/lato-TLF/b/n/10 AI/ML: []  []  [] 
+ []
+
+
+Overfull \hbox (35.80493pt too wide) in paragraph at lines 230--236
+[]  [] [] [][]  
+ []
+
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 332.
+nput line 250.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e1.fd) [1
@@ -1789,11 +1814,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40055 strings out of 469006
- 796689 string characters out of 5454814
- 1562507 words of memory out of 5000000
- 68135 multiletter control sequences out of 15000+600000
- 829029 words of font info for 72 fonts, out of 8000000 for 9000
+ 40058 strings out of 469006
+ 796769 string characters out of 5454814
+ 1577507 words of memory out of 5000000
+ 68138 multiletter control sequences out of 15000+600000
+ 829340 words of font info for 73 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  125i,7n,121p,1181b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/fontawesome5/Font
@@ -1802,9 +1827,9 @@ Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (1 page, 142429 bytes).
+Output written on main.pdf (1 page, 146290 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

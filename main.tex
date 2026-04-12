@@ -97,7 +97,7 @@
 % TODO [TAGLINE] — Update tagline once AI experience is stronger.
 %   Current tagline emphasizes Meta/reliability. Once flagship project or deeper AI work
 %   is done, consider something like: "Software Engineer · Systems & AI · ..."
-\tagline{Software Engineer · 3+ Years at Meta · Building Reliable Systems at Scale}
+\tagline{Software Engineer · 3.5+ Years at Meta · Building Reliable Systems at Scale}
 %% You can add multiple photos on the left or right
 % \photoR{2.8cm}{Globe_High}
 % \photoL{2.5cm}{Yacht_High,Suitcase_High}
@@ -113,24 +113,6 @@
   \linkedin{linkedin.com/in/mrvora}
   \github{github.com/meet-vora}
 %   \orcid{0000-0000-0000-0000}
-  %% You can add your own arbitrary detail with
-  %% \printinfo{symbol}{detail}[optional hyperlink prefix]
-  % \printinfo{\faPaw}{Hey ho!}[https://example.com/]
-  %% Or you can declare your own field with
-  %% \NewInfoFiled{fieldname}{symbol}[optional hyperlink prefix] and use it:
-  % \NewInfoField{gitlab}{\faGitlab}[https://gitlab.com/]
-  % \gitlab{your_id}
-  %%
-  %% For services and platforms like Mastodon where there isn't a
-  %% straightforward relation between the user ID/nickname and the hyperlink,
-  %% you can use \printinfo directly e.g.
-  % \printinfo{\faMastodon}{@username@instace}[https://instance.url/@username]
-  %% But if you absolutely want to create new dedicated info fields for
-  %% such platforms, then use \NewInfoField* with a star:
-  % \NewInfoField*{mastodon}{\faMastodon}
-  %% then you can use \mastodon, with TWO arguments where the 2nd argument is
-  %% the full hyperlink.
-  % \mastodon{@username@instance}{https://instance.url/@username}
 }
 
 \makecvheader
@@ -143,9 +125,10 @@
 % Start a 2-column paracol. Both the left and right columns will automatically
 % break across pages if things get too long.
 \begin{paracol}{2}
+
 \cvsection{Experience}
 
-\cvevent{Software Engineer (IC4)}{Meta}{September 2022 - March 2026}
+\cvevent{Full-Stack Software Engineer}{Meta}{September 2022 -- Present}
 \begin{itemize}
 \item Delivered critical compliance platform features end-to-end for Project Compass (1K+ MAU, \textasciitilde\$14M in savings), launching 9 months ahead of schedule across multiple domain rollouts
 \item Sole engineer on compliance review tooling --- reduced end-to-end review SLA (135 \textrightarrow{} 43 days), cut \textasciitilde\$350k/yr in legal review costs by independently delivering all milestones ahead of schedule
@@ -155,81 +138,40 @@
 \end{itemize}
 
 \medskip
-
-\cvsection{AI \& Automation}
-
-\begin{itemize}
-\item Built an AI-first developer productivity system at Meta: authored 5 custom rules, 12+ skills/commands, and 10+ hooks, connected to 4 autonomous agents running 24/7 on a dedicated server
-% TODO [AI PROJECT BULLET] — Add a second strong bullet here once a real AI project is complete.
-%   This could be the flagship Claude API project or another meaningful AI/ML project.
-%   The AI section currently has only 1 real bullet + 1 vague one — needs at least 2 strong ones.
-% TODO [FLAGSHIP AI PROJECT] — Build a standout project using Claude's API.
-%   Ideas: CLI code review tool, safety eval harness, RAG app over a specific domain.
-%   Put on GitHub with clean README. Replace this placeholder with 1-line description + link.
-%   This is the single highest-signal item for Anthropic. See Prep Plan Phase 4, Item 3.
-% \item [PLACEHOLDER: Flagship Claude API project — e.g. "Built [tool name], a [description] using Claude's API (github.com/meet-vora/[repo])"]
-%
-% TODO [OPEN SOURCE CONTRIBUTION] — Optional but high-impact.
-%   Targets: anthropic-sdk-python, anthropic-cookbook, LangChain, or any Python OSS project.
-%   Even a small, well-crafted PR counts. See Prep Plan Phase 4, Item 2.
-% \item [PLACEHOLDER: Open-source contribution — e.g. "Contributed [feature/fix] to [repo]"]
-%
-% TODO [PERSONAL AI WORKFLOW] — Flesh out once home setup is more concrete.
-%   Currently too vague for Anthropic. To make this a real bullet, build 1-2 of:
-%   - Scheduled tasks + custom skills in Cowork (turns "I use AI" into "I built AI automation")
-%   - RAG pipeline over Obsidian vault (semantic search across notes)
-%   - Automated knowledge ingestion (articles → summarized → tagged → filed)
-%   - Personal CRM with AI-powered follow-up nudges
-%   Once built, replace with something like:
-%   "Built personal AI automation layer over Obsidian: [N] scheduled tasks, [N] custom skills,
-%    and a [specific feature] for [specific outcome]"
-% \item Building personal AI-augmented workflow for knowledge management and task automation
-\end{itemize}
+Stack: \cvtag{Python} \cvtag{Hack/PHP} \cvtag{GraphQL} \cvtag{React} \cvtag{MySQL}
 
 \medskip
 
-\cvsection{Prior Experience}
+\cvsection{AI \& Projects}
 
-\cvevent{Backend SWE Intern}{Zuora}{January 2022 - April 2022}
+% \cvevent{Chess Analyst}{\href{https://github.com/Meet-Vora/chess-analyst}{github.com/Meet-Vora/chess-analyst}}{2025 -- Present}
+\cvproj{Chess Analyst}{AI-Powered Personalized Chess Analysis}{2026}{github.com/Meet-Vora/chess-analyst}
 \begin{itemize}
-\item Built Spring API with 7 endpoints for Kafka-Connect and Debezium connectors, pipelining data from MySQL \& Oracle databases to Kafka for company-wide services
+\item Built a Python CLI pipeline that ingests chess game archives (PGN), generates structured tactical reviews via LLM reasoning (Pydantic-enforced JSON schemas), and enables semantic querying over game history using a full RAG pipeline (ChromaDB + 3072-dimensional embeddings). Modular ETL architecture with SQLite metadata store and 4 pytest test suites.
 \end{itemize}
+
+\medskip
+Stack: \cvtag{Python} \cvtag{Gemini API} \cvtag{ChromaDB} \cvtag{SQLite} \cvtag{Pydantic} \cvtag{RAG} \cvtag{Click} \cvtag{pytest}
 
 \divider
 
-\cvevent{Fullstack SWE Intern}{Checkbook}{March 2021 - August 2021}
+\cvevent{AI SWE 10x-Productivity System}{Meta Productivity}{2026}
 \begin{itemize}
-\item Implemented features end-to-end across 4+ repositories. Rebuilt React site structure for internationalization, reducing code duplication by 60\%
+\item Built an AI-first developer productivity system at Meta: authored 5 custom rules, 12+ skills/commands, and 10+ hooks, connected to 4 autonomous agents running 24/7 on a dedicated server
 \end{itemize}
 
-% \divider
+\medskip
+Stack: \cvtag{Claude Code} \cvtag{Prompt Engineering} \cvtag{Bash} \cvtag{CI/CD Hooks}
 
-% \cvevent{Gitlet}{Version Control System}{April 2020 - May 2020}
-% \begin{itemize}
-%     \item Git-like version control system that tracks files in a local repository
-%     \item Commands to track files include init, add, commit, rm, log, branch, checkout, and more!
-%     \item Wrote 1000+ lines of code in Java and spent 20+ hours to implement
-% \end{itemize}
+\medskip
 
-% \medskip
+% TODO [OPEN SOURCE CONTRIBUTION] — Optional but high-impact.
+%   Targets: anthropic-sdk-python, anthropic-cookbook, LangChain, or any Python OSS project.
+%   Even a small, well-crafted PR counts. See Prep Plan Phase 4, Item 2.
 
-% use ONLY \newpage if you want to force a page break for
-% ONLY the current column
-% \newpage
-
-% \cvsection{Publications}
-
-% \nocite{*}
-
-% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
-
-% \divider
-
-% \printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Journal Articles}},type=article]
-
-% \divider
-
-% \printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+% TODO [BLOG POST / WRITING] — Anthropic explicitly values this. See Prep Plan Phase 4, Item 1.
+%   Write about: a system you designed (keep non-confidential), system design analysis,
+%   or your perspective on AI safety. Publish on Medium or personal site.
 
 %% Switch to the right column. This will now automatically move to the second
 %% page if the content is too long.
@@ -243,7 +185,7 @@
 
 \cvsection{Summary}
 \begin{itemize}
-    \item 3+ years building reliable backend systems at Meta scale
+    \item 3.5+ years building reliable backend systems at Meta scale
     \item End-to-end project ownership across compliance, data, and platform tooling
     \item Proven track record of quantifiable impact: \$14M+ savings, 68\% SLA reduction
     \item Applying lessons from privacy-critical systems at Meta to building trustworthy AI
@@ -285,42 +227,18 @@
 \cvtag{React}
 \divider
 
-% TODO [AI/ML SKILLS] — Uncomment once you have hands-on experience to back these up.
-%   After flagship project: add Claude API, prompt engineering
-%   After RAG project: add LangChain or LlamaIndex
-%   After OSS contribution: add relevant framework
-% \textbf{AI/ML:}
-% \cvtag{Claude API}
-% \cvtag{Prompt Engineering}
-% \cvtag{RAG}
-% \divider
+\textbf{AI/ML:}
+\cvtag{Gemini API}
+\cvtag{ChromaDB}
+\cvtag{Pydantic}
+\cvtag{RAG}
+\divider
 
 \textbf{Tools:}
 \cvtag{Git}
 \cvtag{Linux}
 \cvtag{Docker}
 \cvtag{CI/CD}
-% \cvtag{Big Data}
-
-% \cvsection{Most Proud of}
-
-
-% \divider
-
-
-% \divider
-
-
-
-% \cvsection{Languages}
-
-% \cvskill{English}{5}
-% \divider
-
-% \cvskill{Spanish}{4}
-% \divider
-
-% \cvskill{German}{3.5} %% Supports X.5 values.
 
 %% Yeah I didn't spend too much time making all the
 %% spacing consistent... sorry. Use \smallskip, \medskip,
@@ -329,7 +247,7 @@
 
 \cvsection{Education}
 
-\cvgrad{\textbf{University of California, Berkeley}}{ Computer Science \kern 5pt}{August 2019 - May 2022}
+\cvgrad{\textbf{University of California, Berkeley}}{ Computer Science \kern 5pt}{August 2019 -- May 2022}
 
 \begin{itemize}
 \item Graduated one full year early
@@ -342,21 +260,6 @@
 \cvtag{Tennis}
 \cvtag{Backpacking}
 \cvtag{Board Games}
-
-% \Large\color{LightBlue}\faBook
-% \hspace{18pt}
-% \Large\color{LightBlue}\faGamepad
-% \hspace{18pt}
-% \Large\color{LightBlue}\faUsers
-% \hspace{18pt}
-% \Large\color{LightBlue}\faHeadphones
-% \hspace{18pt}
-% \Large\color{LightBlue}\faBasketballBall
-% \hspace{20pt}
-
-% \divider
-
-
 
 \end{paracol}
 
