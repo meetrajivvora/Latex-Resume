@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1741,49 +1741,49 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 131.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 133.
+(Font)              scaled to size 9.0pt on input line 134.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 134.
+(Font)              scaled to size 10.0pt on input line 135.
 
-Overfull \hbox (3.91875pt too wide) in paragraph at lines 176--177
+Overfull \hbox (3.91875pt too wide) in paragraph at lines 177--178
 []\T1/lato-TLF/m/n/10 Stack: []  []  []  []  [] 
  []
 
 LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 180.
+(Font)              scaled to size 10.0pt on input line 181.
 
-Overfull \hbox (21.62878pt too wide) in paragraph at lines 182--183
+Overfull \hbox (21.62878pt too wide) in paragraph at lines 183--184
 \T1/lato-TLF/m/n/10 en-gi-neer-ing work-flow: au-thored 5 cus-tom rules, 12+ sk
 ills/commands, 
  []
 
 
-Overfull \hbox (14.33873pt too wide) in paragraph at lines 186--187
+Overfull \hbox (14.33873pt too wide) in paragraph at lines 187--188
 []\T1/lato-TLF/m/n/10 Stack: []  []  []  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
  
  []
 
 
-Overfull \hbox (3.81947pt too wide) in paragraph at lines 229--236
+Overfull \hbox (3.81947pt too wide) in paragraph at lines 230--237
 [][]  []  []  [] 
  []
 
 
-Overfull \hbox (3.79648pt too wide) in paragraph at lines 239--247
+Overfull \hbox (3.79648pt too wide) in paragraph at lines 240--248
 []\T1/lato-TLF/b/n/10 Backend/Frontend: []  [] 
  []
 
 
-Overfull \hbox (11.1245pt too wide) in paragraph at lines 239--247
+Overfull \hbox (11.1245pt too wide) in paragraph at lines 240--248
 []  []  []  [] 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 270.
+nput line 271.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e1.fd) [1
@@ -1820,7 +1820,7 @@ Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (2 pages, 149145 bytes).
+Output written on main.pdf (2 pages, 149138 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
