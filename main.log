@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  12 APR 2026 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1745,52 +1745,45 @@ LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 134.
 
-Overfull \hbox (3.91875pt too wide) in paragraph at lines 154--155
+Overfull \hbox (3.91875pt too wide) in paragraph at lines 176--177
 []\T1/lato-TLF/m/n/10 Stack: []  []  []  []  [] 
  []
 
+LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 180.
 
-Overfull \hbox (14.33873pt too wide) in paragraph at lines 164--165
+Overfull \hbox (21.62878pt too wide) in paragraph at lines 182--183
+\T1/lato-TLF/m/n/10 en-gi-neer-ing work-flow: au-thored 5 cus-tom rules, 12+ sk
+ills/commands, 
+ []
+
+
+Overfull \hbox (14.33873pt too wide) in paragraph at lines 186--187
 []\T1/lato-TLF/m/n/10 Stack: []  []  []  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
  
  []
 
 
-Overfull \hbox (3.81947pt too wide) in paragraph at lines 205--212
+Overfull \hbox (3.81947pt too wide) in paragraph at lines 229--234
 [][]  []  []  [] 
  []
 
 
-Overfull \hbox (25.82143pt too wide) in paragraph at lines 217--225
-[]\T1/lato-TLF/b/n/10 Backend: []  []  [] 
+Overfull \hbox (3.79648pt too wide) in paragraph at lines 241--249
+[]\T1/lato-TLF/b/n/10 Backend/Frontend: []  [] 
  []
 
 
-Overfull \hbox (145.95972pt too wide) in paragraph at lines 217--225
-[]  []  []  [] [] [][]  
- []
-
-
-Overfull \hbox (86.25182pt too wide) in paragraph at lines 226--229
-[]\T1/lato-TLF/b/n/10 Frontend: []  [] [] [][]  
- []
-
-
-Overfull \hbox (14.9445pt too wide) in paragraph at lines 230--236
-[]\T1/lato-TLF/b/n/10 AI/ML: []  []  [] 
- []
-
-
-Overfull \hbox (35.80493pt too wide) in paragraph at lines 230--236
-[]  [] [] [][]  
+Overfull \hbox (11.1245pt too wide) in paragraph at lines 241--249
+[]  []  []  [] 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 250.
+nput line 272.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e1.fd) [1
@@ -1802,7 +1795,7 @@ ocal/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/u
 sr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 }{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brand
 s0.enc}{/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/fontawesome5/fa
-5free1.enc}] (./main.aux)
+5free1.enc}] [2] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -1814,22 +1807,22 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40058 strings out of 469006
- 796769 string characters out of 5454814
- 1577507 words of memory out of 5000000
- 68138 multiletter control sequences out of 15000+600000
- 829340 words of font info for 73 fonts, out of 8000000 for 9000
+ 40061 strings out of 469006
+ 796817 string characters out of 5454814
+ 1584507 words of memory out of 5000000
+ 68139 multiletter control sequences out of 15000+600000
+ 830018 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 125i,7n,121p,1181b,2315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,7n,121p,1181b,2888s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/fontawesome5/Font
 Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 /public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2026basic/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (1 page, 146290 bytes).
+Output written on main.pdf (2 pages, 149143 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

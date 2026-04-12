@@ -126,7 +126,7 @@
 % break across pages if things get too long.
 \begin{paracol}{2}
 
-\cvsection{Experience}
+\cvsection{Work Experience}
 
 \cvevent{Full-Stack Software Engineer}{Meta}{September 2022 -- Present}
 \begin{itemize}
@@ -137,33 +137,55 @@
 \item Demoed technical work to Director and VP leadership. Reviewed 400+ PRs, mentored new hires, and independently drove alignment across 10+ cross-functional partners
 \end{itemize}
 
-\medskip
-Stack: \cvtag{Python} \cvtag{Hack/PHP} \cvtag{GraphQL} \cvtag{React} \cvtag{MySQL}
+\smallskip
+Stack: \cvtag{Hack/PHP} \cvtag{Python} \cvtag{GraphQL} \cvtag{React} \cvtag{JavaScript}
 
-\medskip
+\smallskip
 
-\cvsection{AI \& Projects}
+\divider
+
+\cvevent{Backend SWE Intern}{Zuora}{January 2022 -- April 2022}
+\begin{itemize}
+\item Built Spring API with 7 endpoints for Kafka-Connect and Debezium connectors, pipelining data from MySQL \& Oracle databases to Kafka for company-wide services
+\end{itemize}
+
+\smallskip
+Stack: \cvtag{Java} \cvtag{Spring Boot} \cvtag{Kafka} \cvtag{Debezium} \cvtag{MySQL}
+
+\divider
+
+\cvevent{Fullstack SWE Intern}{Checkbook}{March 2021 -- August 2021}
+\begin{itemize}
+\item Implemented features end-to-end across 4+ repositories. Rebuilt React site structure for internationalization, reducing code duplication by 60\%
+\end{itemize}
+
+\smallskip
+Stack: \cvtag{Python} \cvtag{React} \cvtag{Angular} \cvtag{JavaScript} \cvtag{Flask}
+
+\smallskip
+
+\cvsection{AI Projects}
 
 % \cvevent{Chess Analyst}{\href{https://github.com/Meet-Vora/chess-analyst}{github.com/Meet-Vora/chess-analyst}}{2025 -- Present}
 \cvproj{Chess Analyst}{AI-Powered Personalized Chess Analysis}{2026}{github.com/Meet-Vora/chess-analyst}
 \begin{itemize}
-\item Built a Python CLI pipeline that ingests chess game archives (PGN), generates structured tactical reviews via LLM reasoning (Pydantic-enforced JSON schemas), and enables semantic querying over game history using a full RAG pipeline (ChromaDB + 3072-dimensional embeddings). Modular ETL architecture with SQLite metadata store and 4 pytest test suites.
+\item Built a Python CLI pipeline that ingests chess game archives (PGN), generates structured tactical reviews via LLM reasoning (Pydantic-enforced structured outputs), and enables semantic querying over game history using a full RAG pipeline (ChromaDB + 3072-dimensional embeddings). Modular ETL architecture with SQLite metadata store and 4 pytest test suites.
 \end{itemize}
 
-\medskip
+\smallskip
 Stack: \cvtag{Python} \cvtag{Gemini API} \cvtag{ChromaDB} \cvtag{SQLite} \cvtag{Pydantic} \cvtag{RAG} \cvtag{Click} \cvtag{pytest}
 
 \divider
 
-\cvevent{AI SWE 10x-Productivity System}{Meta Productivity}{2026}
+\cvevent{Personal AI Developer Productivity System}{Self-Built · Used Daily at Meta}{2026}
 \begin{itemize}
-\item Built an AI-first developer productivity system at Meta: authored 5 custom rules, 12+ skills/commands, and 10+ hooks, connected to 4 autonomous agents running 24/7 on a dedicated server
+\item Designed and built a personal AI productivity layer for my own engineering workflow: authored 5 custom rules, 12+ skills/commands, and 10+ hooks, running 4 autonomous agents 24/7 on a dedicated server
 \end{itemize}
 
-\medskip
+\smallskip
 Stack: \cvtag{Claude Code} \cvtag{Prompt Engineering} \cvtag{Bash} \cvtag{CI/CD Hooks}
 
-\medskip
+\smallskip
 
 % TODO [OPEN SOURCE CONTRIBUTION] — Optional but high-impact.
 %   Targets: anthropic-sdk-python, anthropic-cookbook, LangChain, or any Python OSS project.
@@ -187,8 +209,10 @@ Stack: \cvtag{Claude Code} \cvtag{Prompt Engineering} \cvtag{Bash} \cvtag{CI/CD 
 \begin{itemize}
     \item 3.5+ years building reliable backend systems at Meta scale
     \item End-to-end project ownership across compliance, data, and platform tooling
+    % TODO: verify that this 68% is legit. Probably from one of the PSC self-reviews? If so, add this # to the actual Meta section, otherwise seems out of place and without context
     \item Proven track record of quantifiable impact: \$14M+ savings, 68\% SLA reduction
     \item Applying lessons from privacy-critical systems at Meta to building trustworthy AI
+    \item Active AI builder: shipping end-to-end RAG pipelines, schema-constrained LLM outputs, and autonomous agent tooling
 \end{itemize}
 
 % TODO [BLOG POST / WRITING] — Anthropic explicitly values this. See Prep Plan Phase 4, Item 1.
@@ -204,61 +228,60 @@ Stack: \cvtag{Claude Code} \cvtag{Prompt Engineering} \cvtag{Bash} \cvtag{CI/CD 
 
 \cvtag{Python}
 \cvtag{Hack/PHP}
-\cvtag{TypeScript}
 \cvtag{Java}
+\cvtag{TypeScript}
 \cvtag{JavaScript}
+
+\smallskip
 \cvtag{SQL}
 \cvtag{C}
 
-\medskip
-
 \cvsection{Frameworks/Tools}
 
-\textbf{Backend:}
+\textbf{Backend/Frontend:}
 \cvtag{GraphQL}
 \cvtag{REST APIs}
 \cvtag{Spring Boot}
 \cvtag{Flask}
 \cvtag{PostgreSQL}
 \cvtag{Kafka}
-\divider
-
-\textbf{Frontend:}
 \cvtag{React}
+
 \divider
 
-\textbf{AI/ML:}
+\textbf{AI:}
 \cvtag{Gemini API}
 \cvtag{ChromaDB}
 \cvtag{Pydantic}
 \cvtag{RAG}
+
 \divider
 
 \textbf{Tools:}
 \cvtag{Git}
 \cvtag{Linux}
-\cvtag{Docker}
 \cvtag{CI/CD}
 
 %% Yeah I didn't spend too much time making all the
 %% spacing consistent... sorry. Use \smallskip, \medskip,
 %% \bigskip, \vspace etc to make adjustments.
-\medskip
+\smallskip
 
 \cvsection{Education}
 
-\cvgrad{\textbf{University of California, Berkeley}}{ Computer Science \kern 5pt}{August 2019 -- May 2022}
+\cvgrad{\textbf{University of California: Berkeley}}{ Computer Science \kern 5pt}{August 2019 -- May 2022}
 
 \begin{itemize}
 \item Graduated one full year early
 \end{itemize}
 
-\medskip
+\smallskip
 
 \cvsection{Hobbies}
-\cvtag{Fantasy Novels}
-\cvtag{Tennis}
-\cvtag{Backpacking}
+\cvtag{Ultimate Frisbee}
+\cvtag{Smash Bros}
+\cvtag{Chess}
+\cvtag{Camping}
 \cvtag{Board Games}
 
 \end{paracol}
