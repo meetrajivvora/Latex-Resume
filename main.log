@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  23 APR 2026 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  23 APR 2026 08:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1750,11 +1750,6 @@ Overfull \hbox (6.85172pt too wide) in paragraph at lines 175--176
 -ing (Pydantic- 
  []
 
-
-Overfull \hbox (3.91875pt too wide) in paragraph at lines 181--182
-[]\T1/lato-TLF/m/n/10 Stack: []  []  []  []  [] 
- []
-
 LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 185.
 
@@ -1815,7 +1810,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  40061 strings out of 469006
  796817 string characters out of 5454814
- 1585507 words of memory out of 5000000
+ 1584507 words of memory out of 5000000
  68139 multiletter control sequences out of 15000+600000
  830018 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -1826,7 +1821,7 @@ Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (2 pages, 149153 bytes).
+Output written on main.pdf (2 pages, 148772 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
