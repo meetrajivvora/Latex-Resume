@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  30 APR 2026 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  30 APR 2026 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1745,46 +1745,46 @@ LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 135.
 
-Overfull \hbox (6.85172pt too wide) in paragraph at lines 153--154
+Overfull \hbox (6.85172pt too wide) in paragraph at lines 177--178
 []\T1/lato-TLF/m/n/10 Generates struc-tured tac-ti-cal re-views via LLM rea-son
 -ing (Pydantic- 
  []
 
 LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 163.
+(Font)              scaled to size 10.0pt on input line 187.
 
-Overfull \hbox (21.62878pt too wide) in paragraph at lines 165--166
+Overfull \hbox (21.62878pt too wide) in paragraph at lines 189--190
 \T1/lato-TLF/m/n/10 en-gi-neer-ing work-flow: au-thored 5 cus-tom rules, 12+ sk
 ills/commands, 
  []
 
 
-Overfull \hbox (14.33873pt too wide) in paragraph at lines 169--170
+Overfull \hbox (14.33873pt too wide) in paragraph at lines 193--194
 []\T1/lato-TLF/m/n/10 Stack: []  []  []  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
  
  []
 
 
-Overfull \hbox (3.81947pt too wide) in paragraph at lines 212--219
+Overfull \hbox (3.81947pt too wide) in paragraph at lines 236--243
 [][]  []  []  [] 
  []
 
 
-Overfull \hbox (3.79648pt too wide) in paragraph at lines 222--230
+Overfull \hbox (3.79648pt too wide) in paragraph at lines 246--254
 []\T1/lato-TLF/b/n/10 Backend/Frontend: []  [] 
  []
 
 
-Overfull \hbox (11.1245pt too wide) in paragraph at lines 222--230
+Overfull \hbox (11.1245pt too wide) in paragraph at lines 246--254
 []  []  []  [] 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 253.
+nput line 277.
 
 (/usr/local/texlive/2026basic/texmf-dist/tex/latex/fontawesome5/ufontawesomefre
 e1.fd) [1
@@ -1810,7 +1810,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  40060 strings out of 469006
  796811 string characters out of 5454814
- 1577507 words of memory out of 5000000
+ 1578507 words of memory out of 5000000
  68139 multiletter control sequences out of 15000+600000
  830018 words of font info for 75 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -1821,7 +1821,7 @@ Awesome5Brands-Regular.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1
 exmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2026basic
 /texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2026
 basic/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on main.pdf (1 page, 144462 bytes).
+Output written on main.pdf (1 page, 144481 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
