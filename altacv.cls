@@ -316,8 +316,8 @@
   \ifstrequal{#2}{}{}{
   \textbf{\color{accent}#2}\par
   \smallskip}
-  \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\faCalendar~#3}}}%
-  \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\faLink~ \href{https://#4}{#4}}}}\par
+  \ifstrequal{#3}{}{}{{\small\makebox[0.2\linewidth][l]{\faCalendar~#3}}}%
+  \ifstrequal{#4}{}{}{{\small\makebox[0.2\linewidth][l]{\faLink~ \href{https://#4}{#4}}}}\par
   \medskip\normalsize
 }
 
